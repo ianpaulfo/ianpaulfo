@@ -6,11 +6,11 @@
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** HTML| CSS | LESS/SASS | React | NodeJS | JavaScript | Python | PostgreSQL
 -  **Hobbies :** Audiobooks | Basketball | Music :headphones:
--  **Fact :** Understand, Plan, Execute, Review :heart: ]
+-  **Fact :** Understand, Plan, Execute, Review :heart: 
 
 - 📫 How to reach me: ian-fragoso@lambdastudents.com
 
--->
+
 
 
 ⭐️ From [Ian Fragoso](https://github.com/ianpaulfo)
